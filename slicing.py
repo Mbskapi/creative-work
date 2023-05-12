@@ -3,7 +3,7 @@
 #     print("the youngest child" + child4, child1)
 #
 # #  my_function(child1="james", child2="johnson",child3="peace",
-# #                 child6="mark",child4="victor",child5="lucky")
+# #                 child4="mark",child5="victor",child6="lucky")
 # my_list = ["banana", "mango", "grape", "pawpaw", "pinapple", "water_melon", "orange", "cumcumber"]
 # index = my_list.index("pawpaw")
 # print(my_list, index)
